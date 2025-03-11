@@ -57,7 +57,7 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 
 ## 🌐 Portfolio
 
-Check out my [[portfolio website](https://abhinek-portfolio.netlify.app](https://abhinek8987.github.io/Portfolio/)) to learn more about my projects and skills!
+Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/))] to learn more about my projects and skills!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinek-kumar-pandey-bb8821248/" target="_blank">

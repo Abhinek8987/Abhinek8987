@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abhinek Kumar Pandey
 
-<!--
-**Abhinek8987/Abhinek8987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  
+  <br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinek-kumar-pandey-bb8821248/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinek8987)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar12345abhinek@gmail.com)
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Computer Science student with a strong foundation in web development, always eager to learn new technologies and apply them to create innovative solutions.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinek8987&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinek8987&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🛠️ Projects
+
+### 👁️ Eye-Controlled Mouse
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+- AI-driven mouse control system using eye movements
+- [GitHub Repository](https://github.com/Abhinek8987/EyeMouse)
+
+### 🌦️ Weather Forecast App
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- Real-time weather application with comprehensive forecasts
+- [GitHub Repository](https://github.com/Abhinek8987/WeatherApp)
+
+### 🛍️ E-Commerce Platform
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- Full-stack e-commerce solution with modern features
+- [GitHub Repository](https://github.com/Abhinek8987/E-Commerce)
+
+
+## 🏆 Achievements
+
+- SIH Internal Hackathon 2024
+- CICADA 2024 Intercollegiate Event Hackathon
+- InnovateX - Prototype Showcase
+
+## 🌐 Portfolio
+
+Check out my [portfolio website](https://abhinek-portfolio.netlify.app) to learn more about my projects and skills!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinek8987&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<!-- Begin 3D Skills Showcase -->
+## 💻 Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
+      <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+      <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></td>
+      <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
+    </tr>
+  </table>
+</div>

@@ -26,23 +26,26 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-- AI-driven mouse control system using eye movements
-- [GitHub Repository](https://github.com/Abhinek8987/EyeMouse)
+-Engineered an AI-driven mouse control system that maps eye movements to cursor navigation, eliminating the need for physical input devices. Utilized facial landmark detection to precisely track gaze position.
+- [GitHub Repository](https://github.com/Abhinek8987/Eye-Controlled-Mouse)
 
-### 🌦️ Weather Forecast App
+### 🌦️ Flipkart Clone
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Real-time weather application with comprehensive forecasts
-- [GitHub Repository](https://github.com/Abhinek8987/WeatherApp)
+- A simple Flipkart Clone built using HTML, CSS, and JavaScript. This project features a shopping website with a product listing page, search functionality, and a shopping cart with price calculations.
 
-### 🛍️ E-Commerce Platform
+- [Live Demo](https://abhinek8987.github.io/Flipkart_Clone/)
+
+### 🛍️ Event Management System
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Full-stack e-commerce solution with modern features
+- The Event Management System streamlines event creation, user registration, and admin control. Organizers can manage event details effortlessly, while participants enjoy a smooth sign-up process.
+
+
 - [GitHub Repository](https://github.com/Abhinek8987/E-Commerce)
 
 
@@ -54,7 +57,7 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 
 ## 🌐 Portfolio
 
-Check out my [portfolio website](https://abhinek-portfolio.netlify.app) to learn more about my projects and skills!
+Check out my [[portfolio website](https://abhinek-portfolio.netlify.app](https://abhinek8987.github.io/Portfolio/)) to learn more about my projects and skills!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinek-kumar-pandey-bb8821248/" target="_blank">

@@ -10,7 +10,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar12345abhinek@gmail.com)
 </div>
 
-
 I'm a passionate Computer Science student with a strong foundation in web development, always eager to learn new technologies and apply them to create innovative solutions.
 
 ## 📊 GitHub Stats
@@ -20,13 +19,19 @@ I'm a passionate Computer Science student with a strong foundation in web develo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinek8987&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Abhinek8987/Abhinek8987/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+</div>
+
 ## 🛠️ Projects
 
 ### 👁️ Eye-Controlled Mouse
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
--Engineered an AI-driven mouse control system that maps eye movements to cursor navigation, eliminating the need for physical input devices. Utilized facial landmark detection to precisely track gaze position.
+- Engineered an AI-driven mouse control system that maps eye movements to cursor navigation, eliminating the need for physical input devices. Utilized facial landmark detection to precisely track gaze position.
 - [GitHub Repository](https://github.com/Abhinek8987/Eye-Controlled-Mouse)
 
 ### 🌦️ Flipkart Clone
@@ -45,9 +50,7 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 
 - The Event Management System streamlines event creation, user registration, and admin control. Organizers can manage event details effortlessly, while participants enjoy a smooth sign-up process.
 
-
 - [GitHub Repository](https://github.com/Abhinek8987/E-Commerce)
-
 
 ## 🏆 Achievements
 
@@ -57,7 +60,7 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 
 ## 🌐 Portfolio
 
-Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/))] to learn more about my projects and skills!
+Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/)] to learn more about my projects and skills!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinek-kumar-pandey-bb8821248/" target="_blank">
@@ -65,8 +68,6 @@ Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/))] to
   </a>
 </div>
 
-
-<!-- Begin 3D Skills Showcase -->
 ## 💻 Skills
 
 <div align="center">

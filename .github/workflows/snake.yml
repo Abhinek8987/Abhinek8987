@@ -3,8 +3,7 @@ name: Generate Snake Contribution Grid
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs every day at midnight UTC
-
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   build:
@@ -21,6 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+          output_branch: output
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5

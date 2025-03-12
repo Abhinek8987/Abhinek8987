@@ -19,11 +19,6 @@ I'm a passionate Computer Science student with a strong foundation in web develo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinek8987&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Abhinek8987/Abhinek8987/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
-</div>
 
 ## 🛠️ Projects
 
@@ -93,3 +88,6 @@ Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/)] to 
     </tr>
   </table>
 </div>
+
+
+![snake gif](https://github.com/Abhinek8987/Abhinek8987/blob/output/github-contribution-grid-snake.gif)

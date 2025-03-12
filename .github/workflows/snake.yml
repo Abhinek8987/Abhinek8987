@@ -3,8 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs every day at midnight
-
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -18,13 +17,18 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake.gif
+
+      - name: Move files to output folder
+        run: |
+          mkdir -p output
+          mv github-contribution-grid-snake.* output/
 
       - name: Commit and push the snake animation
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/github-contribution-grid-snake.*
+          git add output/github-contribution-grid-snake.*
           git commit -m "Update contribution snake animation"
           git push

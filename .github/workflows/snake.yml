@@ -1,25 +1,31 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake.gif
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v2
+          outputs: dist/github-snake.svg
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist  # Ensure the dist directory is created
+
+      - name: Move generated files
+        run: mv github-snake.svg dist/  # Move the generated file to dist
+
+      - name: Push the Snake Animation
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output  # The branch where the snake animation will be stored
+          folder: dist

@@ -17,7 +17,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
-          outputs: dist/github-snake.gif
+           dist/github-snake-year.svg?frame=year
+            dist/github-snake-month.svg?frame=month
+            dist/github-snake-day.svg?frame=day
 
       - name: Check if file is generated
         run: ls -la dist/  # List files in the dist directory to check if the file exists

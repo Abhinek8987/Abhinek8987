@@ -340,6 +340,5 @@
     <text x="500" y="180" font-family="monospace" font-size="16" fill="#58a6ff" class="typing">&gt; const developer = 'Abhinek Kumar Pandey';</text>
     <text x="500" y="205" font-family="monospace" font-size="16" fill="#58a6ff" class="typing2">&gt; skills.add(['Java', 'Python', 'Algorithms']);</text>
     <text x="500" y="230" font-family="monospace" font-size="16" fill="#58a6ff" class="typing3">&gt; passion = 'Creating innovative web solutions';</text>
-    <text x="910" y="230" font-family="monospace" font-size="16" fill="#ffffff" class="cursor">|</text>
   </g>
 </svg>

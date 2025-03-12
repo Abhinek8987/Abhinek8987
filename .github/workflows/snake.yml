@@ -18,11 +18,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
 
-      - name: Ensure dist directory exists
-        run: mkdir -p dist  # Ensure the dist directory is created
-
-      - name: Move generated files
-        run: mv github-snake.svg dist/  # Move the generated file to dist
+      - name: Check if file is generated
+        run: ls -la dist/  # List files in the dist directory to check if the file exists
 
       - name: Push the Snake Animation
         uses: JamesIves/github-pages-deploy-action@v4

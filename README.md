@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abhinek Kumar Pandey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhinek8987/Abhinek8987/main/banner.svg" width="800"/>
+  <img src="https://raw.githubusercontent.com/Abhinek8987/Abhinek8987/refs/heads/main/banner.svg" width="800"/>
 </div>
 
 

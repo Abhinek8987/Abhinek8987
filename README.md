@@ -92,4 +92,16 @@ Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/)] to 
 
 ![Snake Animation](https://raw.githubusercontent.com/Abhinek8987/Abhinek8987/output/github-snake.svg)
 
+### 🐍 GitHub Contribution Snake Animation
+
+#### 🗓️ Yearly Contribution Snake
+![GitHub Snake - Year](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/github-snake-year.svg)
+
+#### 📆 Monthly Contribution Snake
+![GitHub Snake - Month](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/github-snake-month.svg)
+
+#### 📅 Daily Contribution Snake
+![GitHub Snake - Day](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/github-snake-day.svg)
+
+
 

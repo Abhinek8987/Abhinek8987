@@ -296,11 +296,12 @@
     <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 0 -5; 0 0" dur="3s" repeatCount="indefinite" begin="1.2s" />
   </g>
   
-  <g>
-    <circle class="tech-circle" cx="260" cy="180" r="15" fill="#764abc" /> <!-- Redux -->
-    <text x="260" y="210" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Redux</text>
+ <g>
+    <circle class="tech-circle" cx="260" cy="180" r="15" fill="#A8B9CC" /> <!-- C -->
+    <text x="260" y="210" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">C</text>
     <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 0 -5; 0 0" dur="3s" repeatCount="indefinite" begin="1.6s" />
-  </g>
+</g>
+
   
   <g>
     <circle class="tech-circle" cx="310" cy="180" r="15" fill="#3c873a" /> <!-- Node.js -->

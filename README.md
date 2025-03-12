@@ -90,8 +90,6 @@ Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/)] to 
 </div>
 
 
-### 🐍 Contribution Snake  
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Abhinek8987/Abhinek8987/output/github-contribution-grid-snake.svg)
-
+![Snake Animation](https://raw.githubusercontent.com/Abhinek8987/Abhinek8987/output/github-snake.svg)
 
 

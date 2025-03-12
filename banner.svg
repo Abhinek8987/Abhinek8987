@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    
+    <radialGradient id="glowEffect" cx="400" cy="100" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" style="stop-color:#4287f5;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0" />
+    </radialGradient>
+    
+    <!-- Animation for coding symbols and title -->
+    <style type="text/css">
+      @keyframes float {
+        0% { opacity: 0; transform: translateY(10px); }
+        50% { opacity: 1; }
+        100% { opacity: 0; transform: translateY(-10px); }
+      }
+      
+      @keyframes pulse {
+        0% { opacity: 0.7; }
+        50% { opacity: 1; }
+        100% { opacity: 0.7; }
+      }
+      
+      @keyframes type {
+        from { width: 0; }
+        to { width: 280px; }
+      }
+      
+      @keyframes typeTitle1 {
+        0%, 100% { width: 0; }
+        25%, 45% { width: 200px; }
+        50% { width: 0; }
+      }
+      
+      @keyframes typeTitle2 {
+        0%, 50% { width: 0; }
+        75%, 95% { width: 315px; }
+        100% { width: 0; }
+      }
+      
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 0.8; }
+      }
+      
+      .symbol {
+        animation: float 3s infinite;
+        opacity: 0;
+      }
+      
+      #sym1 { animation-delay: 0s; }
+      #sym2 { animation-delay: 0.5s; }
+      #sym3 { animation-delay: 1s; }
+      #sym4 { animation-delay: 1.5s; }
+      #sym5 { animation-delay: 2s; }
+      #sym6 { animation-delay: 2.5s; }
+      
+      .title-container1 {
+        display: inline-block;
+        width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: typeTitle1 10s steps(20, end) infinite;
+      }
+      
+      .title-container2 {
+        display: inline-block;
+        width: 315px;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: typeTitle2 10s steps(25, end) infinite;
+      }
+      
+      .gear {
+        transform-origin: center;
+        animation: rotate 10s linear infinite;
+      }
+      
+      .gear2 {
+        transform-origin: center;
+        animation: rotate 7s linear infinite reverse;
+      }
+      
+      .cursor {
+        animation: pulse 1s infinite;
+      }
+      
+      .typing {
+        animation: type 4s steps(40, end) infinite;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      
+      .star {
+        animation: blink 3s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Main background -->
+  <rect width="800" height="200" fill="url(#bgGradient)" />
+  
+  <!-- Glow effect -->
+  <circle cx="400" cy="100" r="300" fill="url(#glowEffect)" />
+
+  <!-- Decorative code symbols -->
+  <text id="sym1" class="symbol" x="650" y="50" font-family="monospace" font-size="20" fill="#58a6ff">&lt;/&gt;</text>
+  <text id="sym2" class="symbol" x="700" y="80" font-family="monospace" font-size="20" fill="#58a6ff">{}</text>
+  <text id="sym3" class="symbol" x="730" y="40" font-family="monospace" font-size="20" fill="#f7df1e">for</text>
+  <text id="sym4" class="symbol" x="680" y="30" font-family="monospace" font-size="20" fill="#e34c26">if</text>
+  <text id="sym5" class="symbol" x="710" y="60" font-family="monospace" font-size="20" fill="#306998">def</text>
+  <text id="sym6" class="symbol" x="670" y="70" font-family="monospace" font-size="20" fill="#e61c1c">class</text>
+
+  <!-- Decorative connector lines -->
+  <path d="M0,150 C100,120 200,180 300,150 S500,120 600,150 S700,180 800,150" stroke="#30363d" stroke-width="2" fill="none" />
+  <path d="M0,160 C100,130 200,190 300,160 S500,130 600,160 S700,190 800,160" stroke="#30363d" stroke-width="1" fill="none" />
+
+  <!-- Gears for unique element -->
+  <path class="gear" d="M740,150 L750,150 L755,160 L750,170 L740,170 L735,160 Z" fill="#6e5494" />
+  <circle class="gear" cx="745" cy="160" r="5" fill="#0d1117" />
+  
+  <path class="gear2" d="M760,140 L770,140 L775,150 L770,160 L760,160 L755,150 Z" fill="#e34c26" />
+  <circle class="gear2" cx="765" cy="150" r="5" fill="#0d1117" />
+  
+  <!-- Binary flowing in background - unique element -->
+  <text x="280" y="40" font-family="monospace" font-size="14" fill="#30363d" opacity="0.4">1001010100110101</text>
+  <text x="460" y="30" font-family="monospace" font-size="14" fill="#30363d" opacity="0.4">0110101001101</text>
+  <text x="520" y="50" font-family="monospace" font-size="14" fill="#30363d" opacity="0.4">101011110010</text>
+  <text x="600" y="180" font-family="monospace" font-size="14" fill="#30363d" opacity="0.4">1101010010101</text>
+  <text x="320" y="190" font-family="monospace" font-size="14" fill="#30363d" opacity="0.4">010101110110</text>
+  
+  <!-- Stars in background - unique element -->
+  <circle class="star" cx="250" cy="30" r="1" fill="#ffffff" opacity="0.6" />
+  <circle class="star" cx="350" cy="20" r="1" fill="#ffffff" opacity="0.6" />
+  <circle class="star" cx="450" cy="15" r="1" fill="#ffffff" opacity="0.6" />
+  <circle class="star" cx="550" cy="25" r="1" fill="#ffffff" opacity="0.6" />
+  <circle class="star" cx="650" cy="20" r="1" fill="#ffffff" opacity="0.6" />
+  <circle class="star" cx="750" cy="30" r="1" fill="#ffffff" opacity="0.6" />
+
+  <!-- Name -->
+  <text x="40" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">Abhinek Kumar Pandey</text>
+  
+  <!-- Animated titles with typewriter effect -->
+  <foreignObject x="40" y="70" width="400" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="title-container1">
+        <span style="font-family: Arial, sans-serif; font-size: 20px; color: #58a6ff;">Web Developer</span>
+      </div>
+    </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="70" width="400" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="title-container2">
+        <span style="font-family: Arial, sans-serif; font-size: 20px; color: #58a6ff;">Computer Science Student</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Technologies represented by circles - with Java and Python -->
+  <circle cx="50" cy="140" r="10" fill="#f1e05a" /> <!-- JavaScript -->
+  <circle cx="85" cy="140" r="10" fill="#e34c26" /> <!-- HTML -->
+  <circle cx="120" cy="140" r="10" fill="#563d7c" /> <!-- CSS -->
+  <circle cx="155" cy="140" r="10" fill="#61dafb" /> <!-- React -->
+  <circle cx="190" cy="140" r="10" fill="#764abc" /> <!-- Redux -->
+  <circle cx="225" cy="140" r="10" fill="#3c873a" /> <!-- Node.js -->
+  <circle cx="260" cy="140" r="10" fill="#b07219" /> <!-- Java -->
+  <circle cx="295" cy="140" r="10" fill="#306998" /> <!-- Python -->
+
+  <!-- Labels for technologies -->
+  <text x="50" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">JS</text>
+  <text x="85" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">HTML</text>
+  <text x="120" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">CSS</text>
+  <text x="155" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">React</text>
+  <text x="190" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Redux</text>
+  <text x="225" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Node</text>
+  <text x="260" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Java</text>
+  <text x="295" y="160" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Python</text>
+
+  <!-- Animated terminal window - moved lower -->
+  <rect x="380" y="110" width="350" height="80" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <rect x="380" y="110" width="350" height="20" rx="5" fill="#161b22" stroke="#30363d" stroke-width="2" />
+  <circle cx="395" cy="120" r="5" fill="#ff5f56" />
+  <circle cx="415" cy="120" r="5" fill="#ffbd2e" />
+  <circle cx="435" cy="120" r="5" fill="#27c93f" />
+  
+  <!-- Animated typing text -->
+  <g clip-path="url(#terminalClip)">
+    <text x="390" y="150" font-family="monospace" font-size="14" fill="#58a6ff" class="typing">&gt; const developer = 'Abhinek Kumar Pandey';</text>
+    <text x="390" y="170" font-family="monospace" font-size="14" fill="#58a6ff" class="typing" style="animation-delay: 2s;">&gt; skills.add(['Java', 'Python', 'Algorithms']);</text>
+    <text x="670" y="170" font-family="monospace" font-size="14" fill="#ffffff" class="cursor">|</text>
+  </g>
+  <defs>
+    <clipPath id="terminalClip">
+      <rect x="380" y="130" width="350" height="60" />
+    </clipPath>
+  </defs>
+</svg>

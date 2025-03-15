@@ -1,9 +1,10 @@
+
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   build:
@@ -12,22 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation with Labels
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
-          svg_out_path: dist/github-snake.svg
-          enable_labels: true  # ✅ Ensure labels for months and year are visible
-          enable_year: true
-          enable_month: true
 
       - name: Check if file is generated
-        run: ls -la dist/  # Verify output file exists
+        run: ls -la dist/  # List files in the dist directory to check if the file exists
 
       - name: Push the Snake Animation
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output
+          branch: output  # The branch where the snake animation will be stored
           folder: dist
-          clean: true

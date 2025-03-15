@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual runs
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   build:
@@ -18,8 +18,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
           svg_out_path: dist/github-snake.svg
-          # ✅ Add labels for year, month, and day
-          enable_labels: true
+          enable_labels: true  # ✅ Ensure labels for months and year are visible
+          enable_year: true
+          enable_month: true
 
       - name: Check if file is generated
         run: ls -la dist/  # Verify output file exists
@@ -29,4 +30,4 @@ jobs:
         with:
           branch: output
           folder: dist
-          clean: true  # Ensures old files are removed
+          clean: true

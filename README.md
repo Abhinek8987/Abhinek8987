@@ -54,13 +54,18 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 
 ## 🏆 Achievements
 
-- SIH Internal Hackathon 2024
-- CICADA 2024 Intercollegiate Event Hackathon
-- InnovateX - Prototype Showcase
+- **SIH Internal Hackathon 2024**  
+  Qualified in the internal college-level Smart India Hackathon with an innovative solution.
+
+- **InnovateX Prototype Showcase (2nd Prize Winner)**  
+  Won 2nd prize for developing an AI-powered Eye-Controlled Mouse using Python, OpenCV, and MediaPipe.
+
+- **CICADA 2024 Intercollegiate Hackathon**  
+  Participated in Atria Institute of Technology's hackathon, competing with teams from multiple colleges.
 
 ## 🌐 Portfolio
 
-Check out my [[portfolio website](https://abhinek8987.github.io/Portfolio/)] to learn more about my projects and skills!
+Check out my [Portfolio website](https://abhinek8987.github.io/Portfolio/) to learn more about my projects and skills!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinek-kumar-pandey-bb8821248/" target="_blank">

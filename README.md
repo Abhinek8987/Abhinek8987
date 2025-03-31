@@ -91,7 +91,7 @@ I'm a passionate Computer Science student with expertise in web development and 
 - Responsive design that works on mobile and desktop
 - Interactive UI elements with hover effects and animations
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhinek8987.github.io/Flipkart_Clone/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhinekflipkar.netlify.app/)
 
 ---
 

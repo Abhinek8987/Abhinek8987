@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Abhinek Kumar Pandey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhinek8987/Abhinek8987/main/banner.svg" width="800" alt="Welcome Banner"/>
-</div>
-
-<h3 align="center">Computer Science Student | Web Developer | Problem Solver</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinek-kumar-pandey-bb8821248/">

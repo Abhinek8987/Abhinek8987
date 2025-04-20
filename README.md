@@ -121,15 +121,8 @@ I'm a passionate Computer Science student with expertise in web development and 
   <!-- Language Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinek8987&layout=compact&theme=radical&hide=php&langs_count=6" alt="Top Languages" style="max-width:100%; min-width:300px; flex:1 1 45%;">
 
-  <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinek8987&theme=radical" alt="Profile Details" style="width:100%; max-width:900px;">
-
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinek8987&theme=radical" alt="GitHub Streak" style="width:100%; max-width:600px;">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinek8987&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" style="width:100%; max-width:900px;">
-</div>
 
 ---
 

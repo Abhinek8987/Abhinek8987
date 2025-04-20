@@ -122,7 +122,7 @@ I'm a passionate Computer Science student with expertise in web development and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinek8987&layout=compact&theme=radical&hide=php&langs_count=6" alt="Top Languages" style="max-width:100%; min-width:300px; flex:1 1 45%;">
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinek8987&theme=radical" alt="GitHub Streak" style="width:100%; max-width:600px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinek8987&theme=radical" alt="GitHub Streak" style="width:50%; max-width:600px;">
 
 ---
 

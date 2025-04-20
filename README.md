@@ -128,16 +128,18 @@ I'm a passionate Computer Science student with expertise in web development and 
 
 ## 🏆 Achievements
 
+- **1st Prize – National Level Web Design Competition (TECHNOVATE-2K25)**  
+  Won 1st place at the prestigious national-level competition hosted by HKBK College of Engineering. Built a complete webpage using only HTML, CSS, and JavaScript — without personal devices.
+
 - **SIH Internal Hackathon 2024**  
-  Qualified in the internal college-level Smart India Hackathon with an innovative solution
+  Qualified in the internal college-level Smart India Hackathon with an innovative solution.
 
 - **InnovateX Prototype Showcase (2nd Prize Winner)**  
-  Won 2nd prize for developing AI-powered Eye-Controlled Mouse using Python, OpenCV, and MediaPipe
+  Won 2nd prize for developing AI-powered Eye-Controlled Mouse using Python, OpenCV, and MediaPipe.
 
 - **CICADA 2024 Intercollegiate Hackathon**  
-  Participated in Atria Institute of Technology's hackathon, competing with teams from multiple colleges
+  Participated in Atria Institute of Technology's hackathon, competing with teams from multiple colleges.
 
----
 
 ## 📫 Let's Connect
 

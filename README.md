@@ -128,48 +128,29 @@ I'm a passionate Computer Science student with expertise in web development and 
 
 ## 🏆 Achievements
 
-<table align="center">
-  <thead>
-    <tr>
-      <th style="font-size:18px;">Achievement</th>
-      <th style="font-size:18px;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="font-size:16px;">
-        🥇 <img src="https://img.shields.io/badge/1st%20Prize-TECHNOVATE--2K25-blueviolet?style=for-the-badge" alt="1st Prize">
-      </td>
-      <td style="font-size:16px;">
-        Won 1st place at the prestigious national-level competition hosted by <b>HKBK College of Engineering</b>. Built a complete webpage using only <b>HTML, CSS, and JavaScript</b> — without personal devices.
-      </td>
-    </tr>
-    <tr>
-    <tr>
-      <td align="center" style="font-size:16px;">
-        🥈 <img src="https://img.shields.io/badge/2nd%20Prize-InnovateX%20Prototype%20Showcase-ff69b4?style=for-the-badge" alt="2nd Prize">
-      </td>
-      <td style="font-size:16px;">
-        Won 2nd prize for developing an <b>AI-powered Eye-Controlled Mouse</b> using <b>Python</b>, <b>OpenCV</b>, and <b>MediaPipe</b>.
-      </td>
-    </tr>
-    <td align="center" style="font-size:16px;">
-        🚀 <img src="https://img.shields.io/badge/Qualified-SIH%20Internal%20Hackathon%202024-brightgreen?style=for-the-badge" alt="Qualified">
-      </td>
-      <td style="font-size:16px;">
-        Qualified in the internal college-level <b>Smart India Hackathon</b> with an innovative solution.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="font-size:16px;">
-        🎯 <img src="https://img.shields.io/badge/Participant-CICADA%202024-orange?style=for-the-badge" alt="Participant">
-      </td>
-      <td style="font-size:16px;">
-        Participated in <b>Atria Institute of Technology's</b> hackathon, competing with teams from multiple colleges.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/1st%20Prize-TECHNOVATE--2K25-blueviolet?style=for-the-badge" alt="1st Prize" style="margin-bottom: 10px;">
+    <p style="font-size: 16px;"><b>Won 1st place</b> at the prestigious national-level competition hosted by <b>HKBK College of Engineering</b>. Built a complete webpage using only <b>HTML, CSS, and JavaScript</b> — without personal devices.</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/2nd%20Prize-InnovateX%20Prototype%20Showcase-ff69b4?style=for-the-badge" alt="2nd Prize" style="margin-bottom: 10px;">
+    <p style="font-size: 16px;"><b>Won 2nd prize</b> for developing an <b>AI-powered Eye-Controlled Mouse</b> using <b>Python</b>, <b>OpenCV</b>, and <b>MediaPipe</b>.</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/Qualified-SIH%20Internal%20Hackathon%202024-brightgreen?style=for-the-badge" alt="Qualified" style="margin-bottom: 10px;">
+    <p style="font-size: 16px;"><b>Qualified</b> in the internal college-level <b>Smart India Hackathon</b> with an innovative solution.</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/Participant-CICADA%202024-orange?style=for-the-badge" alt="Participant" style="margin-bottom: 10px;">
+    <p style="font-size: 16px;"><b>Participated</b> in <b>Atria Institute of Technology's</b> hackathon, competing with teams from multiple colleges.</p>
+  </div>
+
+</div>
 
 
 
